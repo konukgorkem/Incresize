@@ -1,12 +1,12 @@
 ### Incresize
 
-#What is it?
+# What is it?
 Basically it increases the size of your .exe file according to size you want.
 
-#But why?
+# But why?
 Because the aim is making the exe file not uploadable for virustotal.com.
 
-#How does it works?
+# How does it works?
 It appends unnecessary data to exe so the exe size get bigger. You can choose different modes. Which are:
 
 1. Lorem ipsum mode: it creates lorem ipsum and appends to the .exe.
