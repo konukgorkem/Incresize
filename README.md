@@ -4,7 +4,7 @@
 Basically it increases the size of your .exe file according to size you want.
 
 # But why?
-Because the aim is making the exe file not uploadable for virustotal.com. Currently Virustotal supports 650 MB of files. Don't worry, even if they support more of that in the future, Incresize will still help you.
+Because the aim is making the exe file not uploadable for virustotal.com, so target can't upload and anlyze the payload. Eventually antiviruses can't detect your payload. Currently Virustotal supports 650 MB of files. Don't worry, even if they support more of that in the future, Incresize will still help you.
 
 # How does it works?
 It appends unnecessary data to exe so the exe size get bigger. You can choose different modes. Which are:
