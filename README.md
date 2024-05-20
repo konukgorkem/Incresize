@@ -14,6 +14,6 @@ It appends unnecessary data to exe so the exe size get bigger. You can choose di
 3. Custom mode: you can choose the text you want to add to the .exe.
 
 # Screenshot
-- [Incresize](https://github.com/konukgorkem/Incresize/blob/main/img/incresize.png)
+![](https://github.com/konukgorkem/Incresize/blob/main/img/incresize.png)
 
 
